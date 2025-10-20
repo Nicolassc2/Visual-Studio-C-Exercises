@@ -1,5 +1,5 @@
-#ifndef LIBROS.H
-#define LIBROS.H
+#ifndef LIBROS_H
+#define LIBROS_H
 
 #include "librosysocios.h"
 
