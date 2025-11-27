@@ -22,7 +22,7 @@ void prestarLibro(struct Libro libros[], int cantidad, int idLibro);
 void devolverLibro(struct Libro libros[], int cantidad, int idLibro);
 void ordenarLibrosPorTitulo(struct Libro libros[], int cantidad);
 void ordenarLibrosPorID(struct Libro libros[], int cantidad);
-void ordenarLibrosPorAutor(struct Libro libros[], int cantidad);
 
 
 #endif
+
